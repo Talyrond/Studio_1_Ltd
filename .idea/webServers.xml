@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="944de669-2b9a-43e7-9eb0-7e706d047d83" name="Staging Remote Server" url="http://23.251.143.179">
+        <fileTransfer host="23.251.143.179" port="22" privateKey="C:\Users\Julian\PhpstormProjects\ssh\bitnami-google-bitnami-5sdyfosayq.pem" rootFolder="/home/studio1ltd/apps/opencart/htdocs" accessType="SFTP" username="bitnami" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
